@@ -17,6 +17,12 @@ información que apoye la toma de decisiones basada en datos.
 
 ------------------------------------------------------------------------
 
+
+<img width="1283" height="723" alt="3" src="https://github.com/user-attachments/assets/106a5e4f-d163-4ce9-88c2-db589810284a" />
+
+
+------------------------------------------------------------------------
+
 ## 🎯 Objetivos
 
 - Analizar la evolución de las ventas y ganancias.
